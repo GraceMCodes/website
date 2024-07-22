@@ -1,0 +1,32 @@
+*{
+    color:#1D0A08;
+    /* width:80%;
+    margin:auto; */
+    background-color:#FCF5F5;
+    font-size: 24px;
+    font-family: "Quicksand", sans-serif;
+}
+header{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+padding:24px;
+
+}
+h3{
+    color:#9ED464;
+    text-decoration: underline;
+}
+a{
+    color:#C74B39;
+}
+a:hover{
+    cursor:pointer;
+    color:#5B2E28;
+}
+.set1{
+    width:70%;
+    margin:auto;
+    text-align: center;
+
+}
