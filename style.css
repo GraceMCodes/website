@@ -3,7 +3,7 @@
     /* width:80%;
     margin:auto; */
     background-color:#FCF5F5;
-    font-size: 24px;
+    font-size: 20px;
     font-family: "Quicksand", sans-serif;
 }
 header{
@@ -28,5 +28,21 @@ a:hover{
     width:70%;
     margin:auto;
     text-align: center;
+}
+.set2 ,.set3, .set4{ width:70%;
+    margin:auto;
+    text-align: center;
 
+}
+footer{
+    width:70%;
+    margin:auto;
+
+}
+button{
+    color:#5B2E28;
+}
+button:hover{
+    cursor:pointer;
+    color:#C74B39;
 }
